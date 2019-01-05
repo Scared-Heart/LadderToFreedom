@@ -61,6 +61,10 @@ chmod +x shadowsocks-all.sh
 
 再次感谢clowwindy和teddysun,站在巨人的肩膀上才能让我们走的更远
 
+
+
  [Shadowsocks 一键安装脚本（四合一）](https://shadowsocks.be/11.html)
 
  [一键安装最新内核并开启 BBR 脚本](https://teddysun.com/489.html)
+
+BreezeChan整理
